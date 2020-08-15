@@ -1,1 +1,18 @@
-./target
+# Add any directories, files, or patterns you don't want to be tracked by version control
+*.class
+*.log
+*.ctxt
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.pyc
+*.rar
+hs_err_pid*
+/target/
+.project*
+.settings*
+*.log*
+*.txt*
+/.idea
